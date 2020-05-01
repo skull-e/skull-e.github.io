@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -34,7 +35,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -1429,9 +1430,4 @@ body {
   padding-top: 75px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/mbr-1920x960.jpg");
-}
-.cid-rXGUaDlTDw {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
